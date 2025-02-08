@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["#Opal Mist Designs", "Order a GFX at discord.gg/aJT4Px4hUd"];
+const statusMessages = ["#Opal Mist Designs", "Order a GFX at discord.gg/jWFEbw3v3x", "Very cheap GFXs from only 80 Robux!"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
